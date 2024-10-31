@@ -1,0 +1,4 @@
+[submodule "external/third_party"]
+	path = external/third_party
+	url = git@github.com:MykolaSolyanko/submodule.git
+	branch = main
